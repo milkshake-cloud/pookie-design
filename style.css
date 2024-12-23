@@ -1,0 +1,58 @@
+span{
+    color: blue ;
+}
+h1{
+    font-weight: bolder;
+    font-size: 65px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.img1{
+    margin-top:25%;
+}
+h6{
+    font-size: x-small;
+    margin-bottom: -5%;
+    margin-top: 25%;
+}
+
+
+
+
+.p1{
+    color: antiquewhite;
+    /* margin-top: 50px; */
+    padding: 20px;
+}
+.btn1{
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    color:blue;
+    border-color: transparent;
+}
+.btn2{
+    background-color:antiquewhite(195, 0, 255);
+    border-color: transparent;
+    padding: 15px 35px 15px 35px;
+    color: beige;
+    border-radius:8px;
+    margin-top: 5%;
+}
+.faq{
+    font-weight: bolder;
+    font-size: 50px;
+}
+button{
+    border-color: transparent;
+    background-color:blue;
+    color: antiquewhite;
+    padding-right: 30%;
+    padding-left: 30%;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-radius: 5%;
+    
+}
+
